@@ -1,0 +1,42 @@
+module.exports = {
+    "CIGAN-CD3":{
+        code:{
+            "8":{
+                type:"BI",
+                no:1,
+                value:true
+            },
+        },
+        BI:{
+            "0":{
+                type:'E',
+                defaultValue:false
+            },
+            "1":{
+                type:'E',
+                defaultValue:false
+            }
+        }
+
+    },
+    "CIGAN-CT60":{
+        code:{
+            "8":{
+                type:"BI",
+                no:1,
+                value:false
+            },
+        },
+        BI:{
+            "0":{
+                type:'E',
+                defaultValue:false
+            },
+            "1":{
+                type:'E',
+                defaultValue:true
+            }
+        }
+
+    }
+}
