@@ -1,6 +1,6 @@
 {
   "name": "yeedriver-rf433",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "yeedriver-rf433",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/czjs2/yeedriver-rf433/issues"
   },
-  "homepage": "https://github.com/czjs2/yeedriver-rf433#readme"
+  "homepage": "https://github.com/czjs2/yeedriver-rf433#readme",
+  "dependencies": {
+    "serialport": "^5.0.0",
+    "bluebird": "^3.5.0",
+    "yeedriver-base": "^1.0.1",
+    "lodash": "^4.17.4"
+
+  }
 }
