@@ -1,0 +1,22 @@
+{
+  "name": "yeedriver-rf433",
+  "version": "1.0.0",
+  "description": "yeedriver-rf433",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/czjs2/yeedriver-rf433.git"
+  },
+  "keywords": [
+    "rf433"
+  ],
+  "author": "fx",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/czjs2/yeedriver-rf433/issues"
+  },
+  "homepage": "https://github.com/czjs2/yeedriver-rf433#readme"
+}
